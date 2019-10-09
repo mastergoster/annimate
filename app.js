@@ -26,7 +26,7 @@ tween.add(
 const controller = new ScrollMagic.Controller();
 
 const scene = new ScrollMagic.Scene({
-    triggerElement: '.annimation',
+    triggerElement: '.animation',
     duration: 500,
     triggerHook: 0.4
 })
